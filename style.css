@@ -4,6 +4,8 @@ body {
 }
 
 div {
+  display: block;
+  margin: 0 auto;
   padding: 30px 30px;
   background-color: #faebd7;
   border: solid 1px #000;
